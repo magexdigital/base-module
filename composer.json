@@ -8,7 +8,7 @@
     "magento/framework": "*"
   },
   "license": [
-    "Proprietary"
+    "Open Software License (OSL)"
   ],
   "autoload": {
     "files": [
